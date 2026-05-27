@@ -192,11 +192,11 @@ en registros de productos, ventas o usuarios.
 
 Por ejemplo:
 
-* Verifica que no falten datos obligatorios.
+* Verifica que no falten datos obligatorios
 
-* Comprueba que los precios y cantidades sean válidos.
+* Comprueba que los precios y cantidades sean válidos
 
-* Evita registros duplicados.
+* Evita registros duplicados
 
 ## 3. ¿Calcula?
 
@@ -204,13 +204,13 @@ Sí. El sistema realiza cálculos automáticos relacionados con las ventas y el 
 
 Por ejemplo:
 
-* Calcula el total de una venta.
+* Calcula el total de una venta
 
-* Actualiza automáticamente el stock disponible.
+* Actualiza automáticamente el stock disponible
 
-* Calcula cantidades de productos vendidos.
+* Calcula cantidades de productos vendidos
 
-* Genera totales en reportes.
+* Genera totales en reportes
 
 ## 4. ¿Guarda la información?
 
@@ -218,15 +218,15 @@ Sí. El sistema almacena toda la información de manera automática y segura en 
 
 Entre la información guardada se encuentra:
 
-* Productos registrados.
+* Productos registrados
 
-* Ventas realizadas.
+* Ventas realizadas
 
-* Datos de usuarios.
+* Datos de usuarios
 
-* Información de clientes.
+* Información de clientes
 
-* Reportes e historial de movimientos.
+* Reportes e historial de movimientos
 
 # 📤 SALIDAS ( Outputs )
 
@@ -242,17 +242,17 @@ El sistema genera diferentes resultados y reportes automáticamente para facilit
 
 Por ejemplo:
 
-* Reportes de ventas.
+* Reportes de ventas
 
-* Reportes de inventario.
+* Reportes de inventario
 
-* Historial de productos.
+* Historial de productos
 
-* Facturas o comprobantes de venta.
+* Facturas o comprobantes de venta
 
-* Actualización automática del stock.
+* Actualización automática del stock
 
-* Información de usuarios y clientes.
+* Información de usuarios y clientes
 
 ## 3. ¿Permite tomar decisiones?
 
@@ -261,3 +261,45 @@ Sí. El sistema ayuda a tomar decisiones gracias a la información y reportes qu
 controlar el inventario, conocer las ventas realizadas y detectar posibles faltantes o problemas dentro del negocio. De esta manera, 
 
 se mejora la organización y la administración de la tienda.
+
+# 👥 USUARIOS Y ROLES
+
+## 1. ¿Quién usa el sistema?
+
+El sistema es utilizado principalmente por el administrador y el vendedor/cajero de la tienda. Cada usuario ingresa al sistema
+
+para realizar diferentes actividades relacionadas con el manejo del negocio.
+
+## 2. ¿Todos hacen lo mismo?
+
+No. Cada usuario cumple funciones diferentes dentro del sistema según su rol.
+
+🔒 Administrador:
+
+* Gestiona productos
+
+* Controla inventario y stock
+
+* Administra usuarios
+
+* Consulta reportes
+
+* Supervisa la información del sistema
+
+🔓 Vendedor/Cajero:
+
+* Registra ventas
+
+* Consulta productos disponibles
+
+* Atiende clientes
+
+* Actualiza información básica relacionada con ventas
+
+## 3. ¿Hay permisos? 
+
+Sí. El sistema cuenta con permisos y roles de usuario para controlar el acceso a las funciones de la plataforma. 
+
+Esto permite que cada usuario solo pueda ingresar a las opciones que le corresponden según su cargo, mejorando la seguridad 
+
+y organización de la información.
